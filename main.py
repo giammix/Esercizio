@@ -1,0 +1,5 @@
+print("buongiorno prof")
+a = int(input("Dammi un numero"))
+print("Il doppio del tuo numero è" + a*2)
+print("Il triplo è" + a*3)
+print("La met�à è" + a/2)
